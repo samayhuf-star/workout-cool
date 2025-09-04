@@ -1,7 +1,7 @@
 <div align="center">
-<img src="public/logo.png" alt="Workout.cool Logo" width="120" height="120">
-<h1>Workout.cool</h1>
-<h3><em>Modern fitness coaching platform with comprehensive exercise database</em></h3>
+<img src="public/logo.png" alt="TheFitBot.in Logo" width="120" height="120">
+<h1>TheFitBot.in</h1>
+<h3><em>by samay - your AI fitness buddy</em></h3>
 <p>
 <img src="https://img.shields.io/github/contributors/Snouzy/workout-cool?style=plastic" alt="Contributors">
 <img src="https://img.shields.io/github/forks/Snouzy/workout-cool" alt="Forks">
@@ -87,8 +87,7 @@
 
 ## About
 
-A comprehensive fitness coaching platform that allows create workout plans for you, track progress, and access a vast exercise database with
-detailed instructions and video demonstrations.
+TheFitBot.in is your AI fitness buddy - a comprehensive fitness coaching platform that allows you to create personalized workout plans, track your progress, and access a vast exercise database with detailed instructions and video demonstrations. Built by Samay to provide intelligent, AI-powered fitness guidance.
 
 ## 🎯 Project Origin & Motivation
 

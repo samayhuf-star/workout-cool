@@ -1,7 +1,7 @@
 {
   "background_color": "#f3f4f6",
   "categories": ["health", "fitness", "sports"],
-  "description": "Your personal workout companion - track workouts, build routines, and stay motivated",
+  "description": "TheFitBot.in - Your AI fitness buddy. Track workouts, build routines, and get AI-powered fitness guidance by Samay",
   "display": "standalone",
   "icons": [
     {
@@ -34,10 +34,10 @@
     }
   ],
   "lang": "en",
-  "name": "Workout Cool",
+  "name": "TheFitBot.in",
   "orientation": "portrait",
   "scope": "/",
-  "short_name": "Workout Cool",
+  "short_name": "TheFitBot",
   "start_url": "/",
   "theme_color": "#FF5722"
 }

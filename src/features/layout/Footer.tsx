@@ -11,29 +11,23 @@ import { DiscordSvg } from "@/components/svg/DiscordSvg";
 
 const SOCIAL_LINKS = [
   {
-    href: "https://github.com/Snouzy/workout-cool",
+    href: "https://github.com/samay825/thefitbot",
     icon: Github,
     label: "GitHub",
   },
   {
-    href: "https://x.com/snouzy_biceps",
+    href: "https://x.com/thefitbot_in",
     icon: Twitter,
     label: "Twitter/X",
   },
   {
-    href: "mailto:coolworkout6@gmail.com",
+    href: "mailto:hello@thefitbot.in",
     icon: Mail,
     label: "Email",
-  },
-  {
-    href: "https://discord.gg/NtrsUBuHUB",
-    icon: DiscordSvg,
-    label: "Discord",
   },
 ];
 
 const NAVIGATION = (t: TFunction) => [
-  { name: t("commons.donate"), href: "https://ko-fi.com/workoutcool" },
   { name: t("commons.about"), href: "/about" },
   { name: t("commons.privacy"), href: paths.privacy, hideOnMobile: true },
 ];
